@@ -8,7 +8,6 @@ nitrux-minimal
 #    = Nitrux OS Standard System =
 
 apparmor
-bash-completion
 busybox-static
 cpio
 cron
@@ -17,12 +16,10 @@ dmidecode
 dnsutils
 dosfstools
 file
-grub-efi-amd64-bin
-grub-efi-amd64-signed
+git
 ifupdown
 iptables
 iputils-tracepath
-iputils-ping
 irqbalance
 localechooser-data
 locales
@@ -37,7 +34,6 @@ mlocate
 mokutil
 net-tools
 ntfs-3g
-parted
 pciutils
 psmisc
 strace
