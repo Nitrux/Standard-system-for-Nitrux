@@ -19,8 +19,8 @@ dosfstools
 file
 ifupdown
 iptables
-iputils-tracepath
 iputils-ping
+iputils-tracepath
 irqbalance
 localechooser-data
 locales
@@ -28,9 +28,10 @@ logrotate
 lshw
 lsof
 ltrace
+mailcap
 man-db
 manpages
-mime-support
+media-types
 mlocate
 mokutil
 net-tools
