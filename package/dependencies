@@ -28,9 +28,9 @@ logrotate
 lshw
 lsof
 ltrace
-mailcap
 man-db
 manpages
+mime-support
 media-types
 mlocate
 mokutil
@@ -42,6 +42,5 @@ psmisc
 strace
 tcpdump
 time
-usbmuxd
 usbutils
 user-setup
