@@ -12,7 +12,6 @@ bash-completion
 busybox-static
 cpio
 cron
-dhcpcd5
 dmidecode
 dnsutils
 dosfstools
@@ -31,7 +30,6 @@ ltrace
 man-db
 manpages
 mime-support
-media-types
 mlocate
 mokutil
 net-tools
