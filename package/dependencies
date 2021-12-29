@@ -18,14 +18,11 @@ ifupdown
 iptables
 iputils-tracepath
 irqbalance
-locales
 lshw
 lsof
 media-types
-mlocate
 mokutil
 pciutils
-psmisc
 strace
 tcpdump
 time
