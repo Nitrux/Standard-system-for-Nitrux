@@ -8,35 +8,22 @@ nitrux-minimal
 #    = Nitrux OS Standard System =
 
 apparmor
-bash-completion
-busybox-static
 cpio
 cron
 dhcpcd5
 dmidecode
 dnsutils
-dosfstools
 file
 ifupdown
 iptables
-iputils-ping
 iputils-tracepath
 irqbalance
-localechooser-data
 locales
-logrotate
 lshw
 lsof
-ltrace
-mailcap
-man-db
-manpages
 media-types
 mlocate
 mokutil
-net-tools
-ntfs-3g
-parted
 pciutils
 psmisc
 strace
