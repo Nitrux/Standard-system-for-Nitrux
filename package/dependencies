@@ -9,7 +9,6 @@ nitrux-minimal
 
 apparmor
 cpio
-cron
 dhcpcd5
 dmidecode
 dnsutils
