@@ -9,7 +9,6 @@ nitrux-minimal
 
 apparmor
 cpio
-dhcpcd5
 dmidecode
 dnsutils
 file
